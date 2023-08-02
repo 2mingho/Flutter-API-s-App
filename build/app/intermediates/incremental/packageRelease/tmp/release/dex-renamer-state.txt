@@ -1,0 +1,4 @@
+#Wed Aug 02 13:03:19 AST 2023
+base.0=C\:\\Users\\domin\\Documents\\PROGRAMACION\\flutter\\swiss_knife\\Flutter-API-s-App\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
